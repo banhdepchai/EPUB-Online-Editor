@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Prevent document metadata tags embedded inside container divs from rendering visually */
+div head,
+div title,
+div meta,
+div link,
+div xml {
+  display: none !important;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "EPUB Online Editor",
+  "description": "Trình chỉnh sửa EPUB trực tuyến - Chỉnh sửa tiêu đề, tác giả, bìa sách, mục lục và nội dung các chương",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
